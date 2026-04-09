@@ -2,6 +2,7 @@
 # 🎬 Movie App (TMDB API)
 
 Demo
+![Demo](./screen/demovideo.gif)
 
 🚀 A modern movie discovery application built using HTML, CSS, and JavaScript.  
 This project fetches real-time movie data from TMDB API and displays it in a clean, responsive UI.
@@ -21,22 +22,21 @@ This app allows users to:
 
 ## 🖥️ Fullscreen Preview
 
-Fullscreen
+![Fullscreen](./screen/fullscreen.png)
 
 A clean and modern movie layout inspired by real-world platforms like Netflix.
 
 ---
 
 ## 📸 Screenshots
+![Screen1](./screen/screen1.png)
 
 📍 Movie cards with ratings and hover effects  
-Screen1
+![Screen2](./screen/screen2.png)
 
 📍 Dynamic content loading from API  
-Screen2
 
-📍 Responsive grid system  
-Screen3
+![Screen3](./screen/screen3.png)
 
 ---
 
